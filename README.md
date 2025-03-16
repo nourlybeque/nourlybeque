@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🌱 I’m currently learning data science in Coursera. In future, I would like to post my data science projects on GithHub. I think that my portfolio of projects help me to land a first hob in my career. Wish me luck:)
+## 🌱 I’m currently learning data science in Coursera. In future, I would like to post my data science projects on GithHub. I think that my portfolio of projects help me to land a first job in my career. Wish me luck:)
 <!--
 **nourlybeque/nourlybeque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
