@@ -74,6 +74,4 @@ This project focuses on predicting taxi fares before a ride using **Multiple Lin
 ✅ Processed and cleaned real-world data.
 🔜 Next step: Gain deeper insight into **Random Forest model** and refine predictions.
 
----
-Feel free to explore the repository and contribute!
 
