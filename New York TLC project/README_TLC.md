@@ -47,24 +47,6 @@ The TLC data comes from over 200,000 taxi and limousine licensees, making approx
   
 - Visualizations: (see visuals_TLC folder)
 
-## How to Use the Code
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Run the preprocessing script:
-   ```bash
-   python preprocess.py
-   ```
-3. Train and test the linear regression model:
-   ```bash
-   python train_linear_regression.py
-   ```
-4. (Optional) Explore the Random Forest model:
-   ```bash
-   python train_random_forest.py
-   ```
-
 ## Conclusion
 ✅ Successfully built a **Multiple Linear Regression model** for taxi fare prediction.
 ✅ Processed and cleaned real-world data.
