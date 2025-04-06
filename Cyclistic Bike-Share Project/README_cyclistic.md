@@ -3,6 +3,8 @@
 #### Purpose:
 The goal of this project is to study how annual members and casual riders of a Cyclistic, bike-share company differ, and why casual riders would buy annual membership, and how digital media could affect marketing tactics. The project aims to design marketing strategies for converting casual riders to annual members.
 
+#### Please download the data from this [source.](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
 #### Deliverables:
 
   | Deliverables                                           | Description/Details         |
