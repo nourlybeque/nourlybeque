@@ -27,8 +27,10 @@ First of all, I identified blanks in the dataset by applying filters for all col
 After the data has been organized properly, I calculated maximum and minimum values for the dataset. Also, I determined the mode for the “day_of_week” column in order to identify the most popular weekday in the dataset. Results show that maximum values for ride_length (ride duration) had shown its peak at months May, June, July,  August and September. Moreover, mean (average) values of ride_length showed its highest values at those months mentioned earlier. Here I can say that consumers used bicycles more and had a long ride mostly at the end of spring, during summer season and first month of fall.
 In addition, I used the Pivot table (Microsoft Excel) for the dataset. I created informative tables with the help of Pivot. One of those tables highlight the consumer types as an annual member and casual riders. According to the table with an annual timeline, I can say that casual riders had a higher average ride_length (ride duration) than annual members in 2023 for all months. Another informative table shows ride_lengths (ride duration) of casual riders and annual members organized by weekdays. The interesting fact is that casual riders have a fluctuated trend over days of week with higher values of ride_length (ride duration) than annual members. On the other hand, annual members show a stable trend over days of week and lower ride_length (ride duration).
 
-![Alt Text](images_cyclistic/image_1.png)
+![ride duration 2023](images_cyclistic/image_1.png)
 
-
-
+### Top recommendations based on analysis
+- Educate casual riders on the perks of memberships as a lack of knowledge can be the reason for the long usage by casual riders
+- An ad campaign at the popular start stations for casual riders can increase engagement or interest in memberships
+- A campaign to increase the usage by members especially in the less popular months could increase the number of trips. This campaign should provide benefits or rewards for continued usage with a focus on the less popular months.
 
