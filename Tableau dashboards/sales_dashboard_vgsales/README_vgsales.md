@@ -1,125 +1,21 @@
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
-
-
-
-
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
 
-Insights and recommendations are provided on the following key areas:
+**Goal:** According to global statistics, the video game industry has become a tertiary sector in the entertainment industry. The goal is to show all relevant figures explaining the current trend in video game sales in one dashboard so that every person who has a minimum interest in video games understands it well.
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+The dataset of video game sales was downloaded from [Kaggle.](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+An image for a one-time glance of an interactive Tableau dashboard used to report and explore sales trends can be found [here.](https://github.com/nourlybeque/nourlybeque/blob/31f816e093be1cb353ef8135e1a5fddf3327cc48/Tableau%20dashboards/ibm_hr_dashboard/IBM_Dashboard.png)
 
-Targed SQL queries regarding various business questions can be found here [link].
-
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+For reusable Tableau format design of an interactive dashboard used to report and explore sales trends can be found [here.](https://github.com/nourlybeque/nourlybeque/blob/31f816e093be1cb353ef8135e1a5fddf3327cc48/Tableau%20dashboards/ibm_hr_dashboard/IBM%20HR_Dashboard.twbx)
 
 
-
-# Data Structure & Initial Checks
-
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
-
-[Entity Relationship Diagram here]
+**Process:** A crucial step of this project is data understanding and accurate calculation of video game sales statistics. First, individual visualizations in worksheets are built, which then are combined into one dashboard.
 
 
-
-# Executive Summary
-
-### Overview of Findings
-
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
-
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
-
-
-
-# Insights Deep Dive
-### Category 1:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 1]
-
-
-### Category 2:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 2]
-
-
-### Category 3:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 3]
-
-
-### Category 4:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 4]
-
-
-
-# Recommendations:
-
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
-
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-
-
-# Assumptions and Caveats:
-
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
-
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-  
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-  
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
-
+**Insights**
+Insights and recommendations are provided on the following key areas
+- **Total sales by genre** 
+- **Sales by years and genre** 
+- **Top 10 game names by sales** 
+- **Top 10 game platforms by sales**
+- **Top 10 game publishers by sales** 
