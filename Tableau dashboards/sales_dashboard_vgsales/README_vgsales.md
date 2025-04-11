@@ -12,7 +12,6 @@ For reusable Tableau format design of an interactive dashboard used to report an
 **Process:** A crucial step of this project is data understanding and accurate calculation of video game sales statistics. First, individual visualizations in worksheets are built, which then are combined into one dashboard.
 
 
-**Insights**
 Insights and recommendations are provided on the following key areas
 - **Total sales by genre** 
 - **Sales by years and genre** 
