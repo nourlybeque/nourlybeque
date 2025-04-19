@@ -13,12 +13,13 @@ Insights and recommendations are provided on the following key areas:
 - **Category 3:** 
 - **Category 4:** 
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+The Tiktok project has EDA (Pyhton) used to inspect and clean the data for this analysis can be found [here.]()
 
-Targed SQL queries regarding various business questions can be found here [link].
+The Tiktok project has Hypothesis testing (Python) regarding various business questions can be found [here.]()
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+The TikTok project has Logistic Regression model for prediction of whether published videos in TikTok platform classified as claims or opinions can be found [here.]()
 
+The TikTok project has Random Forest Model 
 
 
 # Data Structure & Initial Checks
