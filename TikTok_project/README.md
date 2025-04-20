@@ -13,13 +13,13 @@ Insights and recommendations are provided on the following key areas:
 - **Category 3:** 
 - **Category 4:** 
 
-The Tiktok project has EDA (Pyhton) used to inspect and clean the data for this analysis can be found [here.]()
+The Tiktok project has EDA (Pyhton) used to inspect and clean the data for this analysis can be found [here.](https://github.com/nourlybeque/nourlybeque/blob/0c379e05be7d0964bcd7ac72e1b654390985d205/TikTok_project/notebooks_TikTok/TikTok_project_EDA.ipynb)
 
-The Tiktok project has Hypothesis testing (Python) regarding various business questions can be found [here.]()
+The Tiktok project has Hypothesis testing (Python) regarding various business questions can be found [here.](https://github.com/nourlybeque/nourlybeque/blob/f18fc8e55fe8f32d707e3201791c8e0988674130/TikTok_project/notebooks_TikTok/TikTok_project_HypothesisTesting.ipynb)
 
-The TikTok project has Logistic Regression model for prediction of whether published videos in TikTok platform classified as claims or opinions can be found [here.]()
+The TikTok project has Logistic Regression model for prediction of whether published videos in TikTok platform classified as claims or opinions can be found [here.](https://github.com/nourlybeque/nourlybeque/blob/f18fc8e55fe8f32d707e3201791c8e0988674130/TikTok_project/notebooks_TikTok/TikTok_project_LogisticRegression.ipynb)
 
-The TikTok project has Random Forest Model 
+The TikTok project has Random Forest Model for advanced classification of whether published videos in TikTok are claims or opinions with maximized accuracy can be found [here.](https://github.com/nourlybeque/nourlybeque/blob/f18fc8e55fe8f32d707e3201791c8e0988674130/TikTok_project/notebooks_TikTok/TikTok_project_RandomForestModel.ipynb)
 
 
 # Data Structure & Initial Checks
