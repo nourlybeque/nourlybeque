@@ -44,9 +44,16 @@ The TikTok project has Random Forest Model for advanced classification of whethe
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+Solution: The data team built two tree-based classification models. Both models were used to predict on a held-out validation dataset, and final model selection was determined by the model with the best recall score. The final model was then used to score a test dataset to estimate future performance.
+<br/>
+Details: Both model architectures—random forest (RF) and XGBoost—performed exceptionally well. The RF model had a better recall score (0.995) and was selected as champion. Performance on the test holdout data yielded near perfect scores, with only five misclassified samples out of 3,817.
+Subsequent analysis indicated that, as expected, the primary predictors were all related to video engagement levels, with video view count, like count, share count, and download count accounting for nearly all predictive signal in the data. With these results, we can conclude that videos with higher user engagement levels were much more likely to be claims. In fact, no opinion video had more than 10,000 views
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+![Confusion Matrix](https://github.com/nourlybeque/nourlybeque/blob/3ff9add1c16e78e82d948dd46a088adfec87c819/TikTok_project/visuals_TikTok/confusion_matrix_TikTok.png)
+
+
+
+
 
 
 
@@ -62,19 +69,6 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 1]
-
-
-### Category 2:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 2]
 
 
 ### Category 3:
