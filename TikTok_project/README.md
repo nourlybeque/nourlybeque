@@ -6,13 +6,6 @@ TikTok is working on the development of a predictive model that can determine wh
 
 Goal: TikTok seeks a way to use machine learning to extract claims or propositions within TikTok videos and comments and classify each data point as a claim or opinion. 
 
-Insights and recommendations are provided on the following key areas:
-
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
-
 The Tiktok project has EDA (Pyhton) used to inspect and clean the data for this analysis can be found [here.](https://github.com/nourlybeque/nourlybeque/blob/0c379e05be7d0964bcd7ac72e1b654390985d205/TikTok_project/notebooks_TikTok/TikTok_project_EDA.ipynb)
 
 The Tiktok project has Hypothesis testing (Python) regarding various business questions can be found [here.](https://github.com/nourlybeque/nourlybeque/blob/f18fc8e55fe8f32d707e3201791c8e0988674130/TikTok_project/notebooks_TikTok/TikTok_project_HypothesisTesting.ipynb)
