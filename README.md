@@ -4,7 +4,6 @@
 Check out my [Cyclistic bike-share](https://github.com/nourlybeque/Cyclistic-Bike-Share-Project) project.<br/>
 Check out my [Bank Insurance Customer Prediction](https://github.com/nourlybeque/bancassurance) project.<br/> 
 Check out my [New York TLC - Taxi fares prediction](https://github.com/nourlybeque/New-York-TLC-project) project.<br/>
-Check out my [Basic demonstration of ETL process](https://github.com/nourlybeque/ETL_warehouse_project) project. <br/>
 
 
 
